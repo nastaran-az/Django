@@ -1,10 +1,15 @@
 # Project Phase 2
 ## Task List
-1.Install Python
+1.Install Python  
+
 2.Install pip
+
 3.Install Django
+
 4.Create Hello Word
+
 5.Task Challenge
+
 ## Learning some new commands:
 1.Python --version
 2.Python -m pip install Django
